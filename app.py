@@ -252,4 +252,4 @@ with tab_masiva:
 with tab_lista:
     st.subheader("Catálogo de Equivalencias")
     df_full = pd.DataFrame(DB_DATA)
-    st.dataframe(df_full, use_container_width=True, hide_index=True)
+    st.dataframe(df_full, use_container_width=True)
