@@ -12,32 +12,45 @@ st.set_page_config(
 # Estilos CSS personalizados para mejorar la apariencia
 st.markdown("""
     <style>
-    .main {
-        background-color: #f0f2f6;
+    /* Forzamos el fondo oscuro general de la app */
+    .stApp {
+        background-color: #0e1117;
     }
-    .stButton>button {
-        width: 100%;
+    
+    /* Forzamos el color del texto general a blanco */
+    h1, h2, h3, h4, h5, h6, p, div, span, label {
+        color: #fafafa !important;
     }
+
+    /* Estilo de tus tarjetas (Resultados) */
     .result-card {
-        padding: 10px;
+        padding: 20px;
         border-radius: 15px;
-        background-color: #262730;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        background-color: #262730; /* Fondo gris oscuro de la tarjeta */
+        box-shadow: 0 4px 15px rgba(0,0,0,0.3);
         margin-bottom: 10px;
-        border: 1px solid #f0f0f0;
+        border: 1px solid #444;
     }
+    
     .card-label {
         font-size: 0.85rem;
-        color: #ffff;
+        color: #b0b0b0; /* Un gris clarito para el subtitulo */
         text-transform: uppercase;
         letter-spacing: 0.05em;
         margin-bottom: 4px;
     }
+    
     .card-value {
         font-size: 1.8rem;
         font-weight: 700;
         margin: 0;
         line-height: 1.2;
+        color: #ffffff; /* Blanco puro para el valor */
+    }
+    
+    /* Ajuste para los inputs para que no se vean raros */
+    .stTextInput input {
+        color: #ffffff;
     }
     </style>
     """, unsafe_allow_html=True)
