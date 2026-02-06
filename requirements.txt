@@ -4,3 +4,4 @@ openpyxl
 xlsxwriter
 altair==4.2.2
 pyarrow<14.0.0
+numpy<2.0.0
