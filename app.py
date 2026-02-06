@@ -105,7 +105,6 @@ def get_mappings():
     """Genera diccionarios de búsqueda rápida."""
     mex_to_cad = {}
     cad_to_mex = {}
-    descriptions = {}
     
     for item in DB_DATA:
         m_norm = normalize(item["mexweld"])
@@ -113,46 +112,59 @@ def get_mappings():
         desc = item["descripcion"]
         
         if m_norm:
-            mex_to_cad[m_norm] = item["cadweld"]
-            descriptions[m_norm] = desc
+            mex_to_cad[m_norm] = {"equiv": item["cadweld"], "desc": desc}
         if c_norm:
-            cad_to_mex[c_norm] = item["mexweld"]
-            descriptions[c_norm] = desc
+            cad_to_mex[c_norm] = {"equiv": item["mexweld"], "desc": desc}
             
-    return mex_to_cad, cad_to_mex, descriptions
+    return mex_to_cad, cad_to_mex
 
-def find_equivalence(code, mex_map, cad_map, desc_map):
-    """Busca un código en ambas direcciones."""
+def find_equivalence(code, mapping, target_brand):
+    """Busca un código en la dirección seleccionada."""
     norm_code = normalize(code)
     if not norm_code:
         return None
-        
-    result = {
-        "original": code,
-        "marca_detectada": "Desconocida",
-        "equivalente": "No encontrado",
-        "descripcion": "Sin descripción"
-    }
     
-    if norm_code in mex_map:
-        result["marca_detectada"] = "Mexweld"
-        result["equivalente"] = mex_map[norm_code]
-        result["descripcion"] = desc_map.get(norm_code, "")
-        result["marca_equivalente"] = "Cadweld"
-    elif norm_code in cad_map:
-        result["marca_detectada"] = "Cadweld"
-        result["equivalente"] = cad_map[norm_code]
-        result["descripcion"] = desc_map.get(norm_code, "")
-        result["marca_equivalente"] = "Mexweld"
+    if norm_code in mapping:
+        data = mapping[norm_code]
+        return {
+            "original": code,
+            "equivalente": data["equiv"],
+            "marca_equivalente": target_brand,
+            "descripcion": data["desc"],
+            "encontrado": True
+        }
         
-    return result
+    return {
+        "original": code,
+        "equivalente": "No encontrado",
+        "marca_equivalente": "-",
+        "descripcion": "Sin descripción",
+        "encontrado": False
+    }
 
 # --- INTERFAZ DE USUARIO ---
 
 st.title("Convertidor Mexweld ↔ Cadweld")
 st.markdown("Herramienta rápida para consultar equivalencias de moldes y accesorios.")
 
-mex_map, cad_map, desc_map = get_mappings()
+mex_map, cad_map = get_mappings()
+
+# Selector de dirección
+direction = st.radio(
+    "¿Qué desea hacer?",
+    ["De Mexweld a Cadweld", "De Cadweld a Mexweld"],
+    horizontal=True
+)
+
+# Configuración según selección
+if direction == "De Mexweld a Cadweld":
+    search_map = mex_map
+    source_brand = "Mexweld"
+    target_brand = "Cadweld"
+else:
+    search_map = cad_map
+    source_brand = "Cadweld"
+    target_brand = "Mexweld"
 
 # Tabs para separar funcionalidad
 tab_busqueda, tab_masiva, tab_lista = st.tabs(["🔍 Búsqueda Rápida", "📂 Carga Masiva (Excel)", "📋 Ver Catálogo Completo"])
@@ -161,13 +173,13 @@ with tab_busqueda:
     st.subheader("Consultar un código individual")
     col1, col2 = st.columns([2, 1])
     with col1:
-        code_input = st.text_input("Ingrese el código (Mexweld o Cadweld):", placeholder="Ej: CCP o SS").strip()
+        code_input = st.text_input(f"Ingrese el código ({source_brand}):", placeholder="Ej: CCP" if source_brand == "Mexweld" else "Ej: SS").strip()
     
     if code_input:
-        res = find_equivalence(code_input, mex_map, cad_map, desc_map)
+        res = find_equivalence(code_input, search_map, target_brand)
         
-        if res and res["marca_detectada"] != "Desconocida":
-            st.success(f"✅ Código encontrado: {res['marca_detectada']}")
+        if res and res["encontrado"]:
+            st.success(f"✅ Código encontrado.")
             
             # Diseño de tarjeta para el resultado
             st.markdown(f"""
@@ -177,7 +189,6 @@ with tab_busqueda:
                 </h3>
                 <div style="display: flex; justify-content: space-between; align-items: center;">
                     <div style="flex: 1;">
-                        <div class="card-label">{res['marca_detectada']}</div>
                         <div class="card-value" style="color: #329bfc;">{res['original'].upper()}</div>
                     </div>
                     <div style="padding: 0 15px; font-size: 2rem; color: #ffff;">➜</div>
@@ -190,7 +201,7 @@ with tab_busqueda:
             """, unsafe_allow_html=True)
         else:
             st.error("❌ Código no encontrado en la base de datos.")
-            st.info("Intente verificar si el código está escrito correctamente.")
+            st.info(f"Buscando en {source_brand}. Verifique la dirección seleccionada.")
 
 with tab_masiva:
     st.subheader("Procesar lista de códigos")
@@ -212,13 +223,12 @@ with tab_masiva:
                 
                 results = []
                 for c in codes_list:
-                    r = find_equivalence(c, mex_map, cad_map, desc_map)
-                    if r:
+                    m = find_equivalence(c, search_map, target_brand)
+                    if m:
                         results.append({
-                            "Código Ingresado": r["original"],
-                            "Marca Detectada": r["marca_detectada"],
-                            "Equivalente": r["equivalente"],
-                            "Descripción": r["descripcion"]
+                            "Código Ingresado": m["original"],
+                            "Equivalente": m["equivalente"],
+                            "Descripción": m["descripcion"]
                         })
                 
                 df_results = pd.DataFrame(results)
