@@ -1,0 +1,790 @@
+mexweld,cadweld,descripcion
+CHPH-1/0,HS-1/0,Cable Horizontal a Placa Horizontal
+CHPH-2/0,HS-2/0,Cable Horizontal a Placa Horizontal
+CHPH-250,HS-250,Cable Horizontal a Placa Horizontal
+CHPH-3/0,HS-3/0,Cable Horizontal a Placa Horizontal
+CHPH-300,HS-300,Cable Horizontal a Placa Horizontal
+CHPH-350,HS-350,Cable Horizontal a Placa Horizontal
+CHPH-4/0,HS-4/0,Cable Horizontal a Placa Horizontal
+CHPH-500,HS-500,Cable Horizontal a Placa Horizontal
+CHPH1-2,HS-2,Cable Horizontal a Placa Horizontal
+CHPH1-4,HS-4,Cable Horizontal a Placa Horizontal
+CHPH9-1000,HS-1000,Cable Horizontal a Placa Horizontal
+CHPH9-750,HS-750,Cable Horizontal a Placa Horizontal
+CHTH1-2-10-12,HA-2-10-12,Cable Horizontal a Tubo Horizontal
+CHTH1-2-11/2-2,HA-2-11/2-2,Cable Horizontal a Tubo Horizontal
+CHTH1-2-3-4,HA-2-3-4,Cable Horizontal a Tubo Horizontal
+CHTH1-2-6-8,HA-2-6-8,Cable Horizontal a Tubo Horizontal
+CHTH1-4-10-12,HA-4-10-12,Cable Horizontal a Tubo Horizontal
+CHTH1-4-11/4-2,HA-4-11/4-2,Cable Horizontal a Tubo Horizontal
+CHTH1-4-3-4,HA-4-3-4,Cable Horizontal a Tubo Horizontal
+CHTH1-4-6-8,HA-4-6-8,Cable Horizontal a Tubo Horizontal
+CHTH2-1/0-12-28,HA-1/0-12-28,Cable Horizontal a Tubo Horizontal
+CHTH2-1/0-3-4,HA-1/0-3-4,Cable Horizontal a Tubo Horizontal
+CHTH2-1/0-6-10,HA-1/0-6-10,Cable Horizontal a Tubo Horizontal
+CHTH2-2/0-12-28,HA-2/0-12-28,Cable Horizontal a Tubo Horizontal
+CHTH2-2/0-3-4,HA-2/0-3-4,Cable Horizontal a Tubo Horizontal
+CHTH2-2/0-6-10,HA-2/0-6-10,Cable Horizontal a Tubo Horizontal
+CHTH2-3/0-12-28,HA-3/0-12-28,Cable Horizontal a Tubo Horizontal
+CHTH2-3/0-3-4,HA-3/0-3-4,Cable Horizontal a Tubo Horizontal
+CHTH2-3/0-6-10,HA-3/0-6-10,Cable Horizontal a Tubo Horizontal
+CHTH2-4/0-12-28,HA-4/0-12-28,Cable Horizontal a Tubo Horizontal
+CHTH2-4/0-3-4,HA-4/0-3-4,Cable Horizontal a Tubo Horizontal
+CHTH2-4/0-6-10,HA-4/0-6-10,Cable Horizontal a Tubo Horizontal
+CBVT10-1/2-1/0,LQ-1/2-1/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/2-2,LQ-1/2-2,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/2-2/0,LQ-1/2-2/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/2-250,LQ-1/2-250,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/2-4/0,LQ-1/2-4/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/2-500,LQ-1/2-500,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/2-750,LQ-1/2-750,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/4-1/0,LQ-1/4-1/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/4-2/0,LQ-1/4-2/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/4-250,LQ-1/4-250,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/4-4/0,LQ-1/4-4/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/4-500,LQ-1/4-500,Cable Vertical de Paso a Barra Horizontal
+CBVT10-1/4-750,LQ-1/4-750,Cable Vertical de Paso a Barra Horizontal
+CBVT10-3/8-1/0,LQ-3/8-1/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-3/8-2/0,LQ-3/8-2/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-3/8-250,LQ-3/8-250,Cable Vertical de Paso a Barra Horizontal
+CBVT10-3/8-4/0,LQ-3/8-4/0,Cable Vertical de Paso a Barra Horizontal
+CBVT10-3/8-500,LQ-3/8-500,Cable Vertical de Paso a Barra Horizontal
+CBVT10-3/8-750,LQ-3/8-750,Cable Vertical de Paso a Barra Horizontal
+CBVT5-1/4-2,LQ-1/4-2,Cable Vertical de Paso a Barra Horizontal
+CBVT5-3/8-2,LQ-3/8-2,Cable Vertical de Paso a Barra Horizontal
+C45PV-1/0,VS-1/0,Cable a 45° a Placa Vertical
+C45PV-2,VS-2,Cable a 45° a Placa Vertical
+C45PV-2/0,VS-2/0,Cable a 45° a Placa Vertical
+C45PV-250,VS-250,Cable a 45° a Placa Vertical
+C45PV-3/0,VS-3/0,Cable a 45° a Placa Vertical
+C45PV-300,VS-300,Cable a 45° a Placa Vertical
+C45PV-350,VS-350,Cable a 45° a Placa Vertical
+C45PV-4,VS-4,Cable a 45° a Placa Vertical
+C45PV-4/0,VS-4/0,Cable a 45° a Placa Vertical
+C45PV-500,VS-500,Cable a 45° a Placa Vertical
+C45PV-6,VS-6,Cable a 45° a Placa Vertical
+C45PV9-1000,VS-1000,Cable a 45° a Placa Vertical
+C45PV9-750,VS-750,Cable a 45° a Placa Vertical
+C45TV-1/0-12-30,VS-1/0-12-30,Cable a 45° a Tubo Vertical
+C45TV-1/0-2-4,VS-1/0-2-4,Cable a 45° a Tubo Vertical
+C45TV-1/0-4-6,VS-1/0-4-6,Cable a 45° a Tubo Vertical
+C45TV-1/0-6-10,VS-1/0-6-10,Cable a 45° a Tubo Vertical
+C45TV-2-11/2-4,VS-2-11/2-4,Cable a 45° a Tubo Vertical
+C45TV-2-12-30,VS-2-12-30,Cable a 45° a Tubo Vertical
+C45TV-2-4-6,VS-2-4-6,Cable a 45° a Tubo Vertical
+C45TV-2-6-10,VS-2-6-10,Cable a 45° a Tubo Vertical
+C45TV-2/0-12-30,VS-2/0-12-30,Cable a 45° a Tubo Vertical
+C45TV-2/0-2-4,VS-2/0-2-4,Cable a 45° a Tubo Vertical
+C45TV-2/0-4-6,VS-2/0-4-6,Cable a 45° a Tubo Vertical
+C45TV-2/0-6-10,VS-2/0-6-10,Cable a 45° a Tubo Vertical
+C45TV-3/0-12-30,VS-3/0-12-30,Cable a 45° a Tubo Vertical
+C45TV-3/0-2-4,VS-3/0-2-4,Cable a 45° a Tubo Vertical
+C45TV-3/0-4-6,VS-3/0-4-6,Cable a 45° a Tubo Vertical
+C45TV-3/0-6-10,VS-3/0-6-10,Cable a 45° a Tubo Vertical
+C45TV-4-11/2-4,VS-4-11/2-4,Cable a 45° a Tubo Vertical
+C45TV-4-12-30,VS-4-12-30,Cable a 45° a Tubo Vertical
+C45TV-4-4-6,VS-4-4-6,Cable a 45° a Tubo Vertical
+C45TV-4-6-10,VS-4-6-10,Cable a 45° a Tubo Vertical
+C45TV-4/0-12-30,VS-4/0-12-30,Cable a 45° a Tubo Vertical
+C45TV-4/0-2-4,VS-4/0-2-4,Cable a 45° a Tubo Vertical
+C45TV-4/0-4-6,VS-4/0-4-6,Cable a 45° a Tubo Vertical
+C45TV-4/0-6-10,VS-4/0-6-10,Cable a 45° a Tubo Vertical
+CBT-1/2-1/0,LJ-1/2-1/0,Cable a Barra de Tierra
+CBT-1/2-2/0,LJ-1/2-2/0,Cable a Barra de Tierra
+CBT-1/2-250,LJ-1/2-250,Cable a Barra de Tierra
+CBT-1/2-3/0,LJ-1/2-3/0,Cable a Barra de Tierra
+CBT-1/2-300,LJ-1/2-300,Cable a Barra de Tierra
+CBT-1/2-350,LJ-1/2-350,Cable a Barra de Tierra
+CBT-1/2-4/0,LJ-1/2-4/0,Cable a Barra de Tierra
+CBT-1/4-1/0,LJ-1/4-1/0,Cable a Barra de Tierra
+CBT-1/4-2/0,LJ-1/4-2/0,Cable a Barra de Tierra
+CBT-1/4-250,LJ-1/4-250,Cable a Barra de Tierra
+CBT-1/4-3/0,LJ-1/4-3/0,Cable a Barra de Tierra
+CBT-1/4-300,LJ-1/4-300,Cable a Barra de Tierra
+CBT-1/4-350,LJ-1/4-350,Cable a Barra de Tierra
+CBT-1/4-4/0,LJ-1/4-4/0,Cable a Barra de Tierra
+CBT-1/4-500,LJ-1/4-500,Cable a Barra de Tierra
+CBT-3/8-1/0,LJ-3/8-1/0,Cable a Barra de Tierra
+CBT-3/8-2/0,LJ-3/8-2/0,Cable a Barra de Tierra
+CBT-3/8-250,LJ-3/8-250,Cable a Barra de Tierra
+CBT-3/8-3/0,LJ-3/8-3/0,Cable a Barra de Tierra
+CBT-3/8-300,LJ-3/8-300,Cable a Barra de Tierra
+CBT-3/8-350,LJ-3/8-350,Cable a Barra de Tierra
+CBT-3/8-4/0,LJ-3/8-4/0,Cable a Barra de Tierra
+CBT-3/8-500,LJ-3/8-500,Cable a Barra de Tierra
+CBT9-1/2-1000,LJ-1/2-1000,Cable a Barra de Tierra
+CBT9-1/2-500,LJ-1/2-500,Cable a Barra de Tierra
+CBT9-1/2-750,LJ-1/2-750,Cable a Barra de Tierra
+CBT9-3/8-1000,LJ-3/8-1000,Cable a Barra de Tierra
+CBT9-3/8-750,LJ-3/8-750,Cable a Barra de Tierra
+CCD-1/0-2,PC-1/0-2,Cable a Cable con Derivacion
+CCD-1/0-4,PC-1/0-4,Cable a Cable con Derivacion
+CCD-1/0-6,PC-1/0-6,Cable a Cable con Derivacion
+CCD-2-2,PC-2-2,Cable a Cable con Derivacion
+CCD-2-4,PC-2-4,Cable a Cable con Derivacion
+CCD-2-6,PC-2-6,Cable a Cable con Derivacion
+CCD-2/0-2,PC-2/0-2,Cable a Cable con Derivacion
+CCD-2/0-4,PC-2/0-4,Cable a Cable con Derivacion
+CCD-2/0-6,PC-2/0-6,Cable a Cable con Derivacion
+CCD-4-4,PC-4-4,Cable a Cable con Derivacion
+CCD-4-6,PC-4-6,Cable a Cable con Derivacion
+CCD-4/0-2,PC-4/0-2,Cable a Cable con Derivacion
+CCD-4/0-4,PC-4/0-4,Cable a Cable con Derivacion
+CCD-4/0-6,PC-4/0-6,Cable a Cable con Derivacion
+CCP-1/0,SS-1/0,Cable a Cable de Paso
+CCP-2,SS-2,Cable a Cable de Paso
+CCP-2/0,SS-2/0,Cable a Cable de Paso
+CCP-250,SS-250,Cable a Cable de Paso
+CCP-3/0,SS-3/0,Cable a Cable de Paso
+CCP-300,SS-300,Cable a Cable de Paso
+CCP-350,SS-350,Cable a Cable de Paso
+CCP-4,SS-4,Cable a Cable de Paso
+CCP-4/0,SS-4/0,Cable a Cable de Paso
+CCP-500,SS-500,Cable a Cable de Paso
+CCP-6,SS-6,Cable a Cable de Paso
+CCP9-1000,SS-1000,Cable a Cable de Paso
+CCP9-750,SS-750,Cable a Cable de Paso
+CCPP-1/0-1/0,PT-1/0-1/0,Cable a Cable de Paso y Paralelos
+CCPP-1/0-2,PT-1/0-2,Cable a Cable de Paso y Paralelos
+CCPP-1/0-4,PT-1/0-4,Cable a Cable de Paso y Paralelos
+CCPP-2-2,PT-2-2,Cable a Cable de Paso y Paralelos
+CCPP-2-4,PT-2-4,Cable a Cable de Paso y Paralelos
+CCPP-2/0-1/0,PT-2/0-1/0,Cable a Cable de Paso y Paralelos
+CCPP-2/0-2,PT-2/0-2,Cable a Cable de Paso y Paralelos
+CCPP-2/0-2/0,PT-2/0-2/0,Cable a Cable de Paso y Paralelos
+CCPP-2/0-4,PT-2/0-4,Cable a Cable de Paso y Paralelos
+CCPP-250-1/0,PT-250-1/0,Cable a Cable de Paso y Paralelos
+CCPP-250-2,PT-250-2,Cable a Cable de Paso y Paralelos
+CCPP-250-2/0,PT-250-2/0,Cable a Cable de Paso y Paralelos
+CCPP-250-250,PT-250-250,Cable a Cable de Paso y Paralelos
+CCPP-250-3/0,PT-250-3/0,Cable a Cable de Paso y Paralelos
+CCPP-250-4/0,PT-250-4/0,Cable a Cable de Paso y Paralelos
+CCPP-3/0-1/0,PT-3/0-1/0,Cable a Cable de Paso y Paralelos
+CCPP-3/0-2,PT-3/0-2,Cable a Cable de Paso y Paralelos
+CCPP-3/0-2/0,PT-3/0-2/0,Cable a Cable de Paso y Paralelos
+CCPP-3/0-3/0,PT-3/0-3/0,Cable a Cable de Paso y Paralelos
+CCPP-3/0-4,PT-3/0-4,Cable a Cable de Paso y Paralelos
+CCPP-300-1/0,PT-300-1/0,Cable a Cable de Paso y Paralelos
+CCPP-300-2,PT-300-2,Cable a Cable de Paso y Paralelos
+CCPP-300-2/0,PT-300-2/0,Cable a Cable de Paso y Paralelos
+CCPP-300-250,PT-300-250,Cable a Cable de Paso y Paralelos
+CCPP-300-3/0,PT-300-3/0,Cable a Cable de Paso y Paralelos
+CCPP-300-4/0,PT-300-4/0,Cable a Cable de Paso y Paralelos
+CCPP-350-1/0,PT-350-1/0,Cable a Cable de Paso y Paralelos
+CCPP-350-2,PT-350-2,Cable a Cable de Paso y Paralelos
+CCPP-350-2/0,PT-350-2/0,Cable a Cable de Paso y Paralelos
+CCPP-350-250,PT-350-250,Cable a Cable de Paso y Paralelos
+CCPP-350-3/0,PT-350-3/0,Cable a Cable de Paso y Paralelos
+CCPP-350-4/0,PT-350-4/0,Cable a Cable de Paso y Paralelos
+CCPP-4/0-1/0,PT-4/0-1/0,Cable a Cable de Paso y Paralelos
+CCPP-4/0-2,PT-4/0-2,Cable a Cable de Paso y Paralelos
+CCPP-4/0-2/0,PT-4/0-2/0,Cable a Cable de Paso y Paralelos
+CCPP-4/0-3/0,PT-4/0-3/0,Cable a Cable de Paso y Paralelos
+CCPP-4/0-4,PT-4/0-4,Cable a Cable de Paso y Paralelos
+CCPP-4/0-4/0,PT-4/0-4/0,Cable a Cable de Paso y Paralelos
+CCPP-500-1/0,PT-500-1/0,Cable a Cable de Paso y Paralelos
+CCPP-500-2,PT-500-2,Cable a Cable de Paso y Paralelos
+CCPP-500-2/0,PT-500-2/0,Cable a Cable de Paso y Paralelos
+CCPP-500-250,PT-500-250,Cable a Cable de Paso y Paralelos
+CCPP-500-3/0,PT-500-3/0,Cable a Cable de Paso y Paralelos
+CCPP-500-4/0,PT-500-4/0,Cable a Cable de Paso y Paralelos
+CCPP9-300-300,PT-300-300,Cable a Cable de Paso y Paralelos
+CCPP9-350-300,PT-350-300,Cable a Cable de Paso y Paralelos
+CCPP9-350-350,PT-350-350,Cable a Cable de Paso y Paralelos
+CCPP9-500-300,PT-500-300,Cable a Cable de Paso y Paralelos
+CCPP9-500-350,PT-500-350,Cable a Cable de Paso y Paralelos
+CCPP9-500-500,PT-500-500,Cable a Cable de Paso y Paralelos
+CCPPVV3-1/2-1/0,ND-1/2-1/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-1/2-2,ND-1/2-2,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-1/2-2/0,ND-1/2-2/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-1/2-3/0,ND-1/2-3/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-1/2-4,ND-1/2-4,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-1/2-4/0,ND-1/2-4/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-3/4-1/0,ND-3/4-1/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-3/4-2,ND-3/4-2,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-3/4-2/0,ND-3/4-2/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-3/4-4,ND-3/4-4,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8-1/0,ND-5/8-1/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8-2,ND-5/8-2,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8-2/0,ND-5/8-2/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8-4,ND-5/8-4,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8R-1/0,ND-5/8R-1/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8R-2,ND-5/8R-2,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8R-2/0,ND-5/8R-2/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV3-5/8R-4,ND-5/8R-4,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-3/4-250,ND-3/4-250,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-3/4-3/0,ND-3/4-3/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-3/4-300,ND-3/4-300,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-3/4-350,ND-3/4-350,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-3/4-4/0,ND-3/4-4/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-3/4-500,ND-3/4-500,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8-250,ND-5/8-250,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8-3/0,ND-5/8-3/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8-300,ND-5/8-300,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8-350,ND-5/8-350,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8-4/0,ND-5/8-4/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8-500,ND-5/8-500,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8R-250,ND-5/8R-250,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8R-3/0,ND-5/8R-3/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8R-300,ND-5/8R-300,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8R-350,ND-5/8R-350,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8R-4/0,ND-5/8R-4/0,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPVV6-5/8R-500,ND-5/8R-500,Cable a Cable de Paso y Paralelos a Varilla Vertical
+CCPPV3-1/0-1/0,PH-1/0-1/0,Cable a Cable en Paralelo Vertical
+CCPPV3-1/0-2,PH-1/0-2,Cable a Cable en Paralelo Vertical
+CCPPV3-1/0-4,PH-1/0-4,Cable a Cable en Paralelo Vertical
+CCPPV3-2-2,PH-2-2,Cable a Cable en Paralelo Vertical
+CCPPV3-2/0-1/0,PH-2/0-1/0,Cable a Cable en Paralelo Vertical
+CCPPV3-2/0-2,PH-2/0-2,Cable a Cable en Paralelo Vertical
+CCPPV3-2/0-2/0,PH-2/0-2/0,Cable a Cable en Paralelo Vertical
+CCPPV3-2/0-4,PH-2/0-4,Cable a Cable en Paralelo Vertical
+CCPPV3-3/0-1/0,PH-3/0-1/0,Cable a Cable en Paralelo Vertical
+CCPPV3-3/0-2,PH-3/0-2,Cable a Cable en Paralelo Vertical
+CCPPV3-3/0-2/0,PH-3/0-2/0,Cable a Cable en Paralelo Vertical
+CCPPV3-4/0-1/0,PH-4/0-1/0,Cable a Cable en Paralelo Vertical
+CCPPV3-4/0-2,PH-4/0-2,Cable a Cable en Paralelo Vertical
+CCPPV3-4/0-2/0,PH-4/0-2/0,Cable a Cable en Paralelo Vertical
+CCPPV6-3/0-4/0,PH-3/0-4/0,Cable a Cable en Paralelo Vertical
+CCPPV6-4/0-3/0,PH-4/0-3/0,Cable a Cable en Paralelo Vertical
+CCPPV6-4/0-4/0,PH-4/0-4/0,Cable a Cable en Paralelo Vertical
+CCT-1/0-1/0,TA-1/0-1/0,Cable a Cable en T
+CCT-1/0-2,TA-1/0-2,Cable a Cable en T
+CCT-1/0-4,TA-1/0-4,Cable a Cable en T
+CCT-2-2,TA-2-2,Cable a Cable en T
+CCT-2-4,TA-2-4,Cable a Cable en T
+CCT-2/0-1/0,TA-2/0-1/0,Cable a Cable en T
+CCT-2/0-2,TA-2/0-2,Cable a Cable en T
+CCT-2/0-2/0,TA-2/0-2/0,Cable a Cable en T
+CCT-2/0-4,TA-2/0-4,Cable a Cable en T
+CCT-250-1/0,TA-250-1/0,Cable a Cable en T
+CCT-250-2,TA-250-2,Cable a Cable en T
+CCT-250-2/0,TA-250-2/0,Cable a Cable en T
+CCT-250-250,TA-250-250,Cable a Cable en T
+CCT-250-3/0,TA-250-3/0,Cable a Cable en T
+CCT-250-4,TA-250-4,Cable a Cable en T
+CCT-250-4/0,TA-250-4/0,Cable a Cable en T
+CCT-3/0-1/0,TA-3/0-1/0,Cable a Cable en T
+CCT-3/0-2,TA-3/0-2,Cable a Cable en T
+CCT-3/0-2/0,TA-3/0-2/0,Cable a Cable en T
+CCT-3/0-3/0,TA-3/0-3/0,Cable a Cable en T
+CCT-3/0-4,TA-3/0-4,Cable a Cable en T
+CCT-300-1/0,TA-300-1/0,Cable a Cable en T
+CCT-300-2,TA-300-2,Cable a Cable en T
+CCT-300-2/0,TA-300-2/0,Cable a Cable en T
+CCT-300-250,TA-300-250,Cable a Cable en T
+CCT-300-3/0,TA-300-3/0,Cable a Cable en T
+CCT-300-300,TA-300-300,Cable a Cable en T
+CCT-300-4,TA-300-4,Cable a Cable en T
+CCT-300-4/0,TA-300-4/0,Cable a Cable en T
+CCT-350-1/0,TA-350-1/0,Cable a Cable en T
+CCT-350-2,TA-350-2,Cable a Cable en T
+CCT-350-2/0,TA-350-2/0,Cable a Cable en T
+CCT-350-250,TA-350-250,Cable a Cable en T
+CCT-350-3/0,TA-350-3/0,Cable a Cable en T
+CCT-350-300,TA-350-300,Cable a Cable en T
+CCT-350-350,TA-350-350,Cable a Cable en T
+CCT-350-4,TA-350-4,Cable a Cable en T
+CCT-350-4/0,TA-350-4/0,Cable a Cable en T
+CCT-4/0-1/0,TA-4/0-1/0,Cable a Cable en T
+CCT-4/0-2,TA-4/0-2,Cable a Cable en T
+CCT-4/0-2/0,TA-4/0-2/0,Cable a Cable en T
+CCT-4/0-3/0,TA-4/0-3/0,Cable a Cable en T
+CCT-4/0-4,TA-4/0-4,Cable a Cable en T
+CCT-4/0-4/0,TA-4/0-4/0,Cable a Cable en T
+CCT-500-1/0,TA-500-1/0,Cable a Cable en T
+CCT-500-2,TA-500-2,Cable a Cable en T
+CCT-500-2/0,TA-500-2/0,Cable a Cable en T
+CCT-500-250,TA-500-250,Cable a Cable en T
+CCT-500-300,TA-500-300,Cable a Cable en T
+CCT-500-350,TA-500-350,Cable a Cable en T
+CCT-500-4,TA-500-4,Cable a Cable en T
+CCT-500-4/0,TA-500-4/0,Cable a Cable en T
+CCT-500-500,TA-500-500,Cable a Cable en T
+CCX-1/0-1/0,XA-1/0-1/0,Cable a Cable en X Cortando uno
+CCX-1/0-2,XA-1/0-2,Cable a Cable en X Cortando uno
+CCX-1/0-4,XA-1/0-4,Cable a Cable en X Cortando uno
+CCX-2-2,XA-2-2,Cable a Cable en X Cortando uno
+CCX-2-4,XA-2-4,Cable a Cable en X Cortando uno
+CCX-2/0-1/0,XA-2/0-1/0,Cable a Cable en X Cortando uno
+CCX-2/0-2,XA-2/0-2,Cable a Cable en X Cortando uno
+CCX-2/0-2/0,XA-2/0-2/0,Cable a Cable en X Cortando uno
+CCX-250-1/0,XA-250-1/0,Cable a Cable en X Cortando uno
+CCX-250-2,XA-250-2,Cable a Cable en X Cortando uno
+CCX-250-2/0,XA-250-2/0,Cable a Cable en X Cortando uno
+CCX-250-250,XA-250-250,Cable a Cable en X Cortando uno
+CCX-250-3/0,XA-250-3/0,Cable a Cable en X Cortando uno
+CCX-250-4/0,XA-250-4/0,Cable a Cable en X Cortando uno
+CCX-3/0-1/0,XA-3/0-1/0,Cable a Cable en X Cortando uno
+CCX-3/0-2,XA-3/0-2,Cable a Cable en X Cortando uno
+CCX-3/0-2/0,XA-3/0-2/0,Cable a Cable en X Cortando uno
+CCX-3/0-3/0,XA-3/0-3/0,Cable a Cable en X Cortando uno
+CCX-300-1/0,XA-300-1/0,Cable a Cable en X Cortando uno
+CCX-300-2,XA-300-2,Cable a Cable en X Cortando uno
+CCX-300-2/0,XA-300-2/0,Cable a Cable en X Cortando uno
+CCX-300-250,XA-300-250,Cable a Cable en X Cortando uno
+CCX-300-3/0,XA-300-3/0,Cable a Cable en X Cortando uno
+CCX-300-300,XA-300-300,Cable a Cable en X Cortando uno
+CCX-300-4/0,XA-300-4/0,Cable a Cable en X Cortando uno
+CCX-350-1/0,XA-350-1/0,Cable a Cable en X Cortando uno
+CCX-350-2,XA-350-2,Cable a Cable en X Cortando uno
+CCX-350-2/0,XA-350-2/0,Cable a Cable en X Cortando uno
+CCX-350-250,XA-350-250,Cable a Cable en X Cortando uno
+CCX-350-3/0,XA-350-3/0,Cable a Cable en X Cortando uno
+CCX-350-300,XA-350-300,Cable a Cable en X Cortando uno
+CCX-350-350,XA-350-350,Cable a Cable en X Cortando uno
+CCX-350-4/0,XA-350-4/0,Cable a Cable en X Cortando uno
+CCX-4/0-1/0,XA-4/0-1/0,Cable a Cable en X Cortando uno
+CCX-4/0-2,XA-4/0-2,Cable a Cable en X Cortando uno
+CCX-4/0-2/0,XA-4/0-2/0,Cable a Cable en X Cortando uno
+CCX-4/0-3/0,XA-4/0-3/0,Cable a Cable en X Cortando uno
+CCX-4/0-4/0,XA-4/0-4/0,Cable a Cable en X Cortando uno
+CCX-500-1/0,XA-500-1/0,Cable a Cable en X Cortando uno
+CCX-500-2,XA-500-2,Cable a Cable en X Cortando uno
+CCX9-500-2/0,XA-500-2/0,Cable a Cable en X Cortando uno
+CCX9-500-250,XA-500-250,Cable a Cable en X Cortando uno
+CCX9-500-3/0,XA-500-3/0,Cable a Cable en X Cortando uno
+CCX9-500-300,XA-500-300,Cable a Cable en X Cortando uno
+CCX9-500-350,XA-500-350,Cable a Cable en X Cortando uno
+CCX9-500-4/0,XA-500-4/0,Cable a Cable en X Cortando uno
+CCX9-500-500,XA-500-500,Cable a Cable en X Cortando uno
+CCXE-2-2,XB-2-2,Cable a Cable en X Empalmados
+CCXE-2-4,XB-2-4,Cable a Cable en X Empalmados
+CCXE4-1/0-1/0,XB-1/0-1/0,Cable a Cable en X Empalmados
+CCXE4-1/0-2,XB-1/0-2,Cable a Cable en X Empalmados
+CCXE4-1/0-4,XB-1/0-4,Cable a Cable en X Empalmados
+CCXE4-2/0-1/0,XB-2/0-1/0,Cable a Cable en X Empalmados
+CCXE4-2/0-2,XB-2/0-2,Cable a Cable en X Empalmados
+CCXE4-2/0-2/0,XB-2/0-2/0,Cable a Cable en X Empalmados
+CCXE4-250-1/0,XB-250-1/0,Cable a Cable en X Empalmados
+CCXE4-250-2,XB-250-2,Cable a Cable en X Empalmados
+CCXE4-250-2/0,XB-250-2/0,Cable a Cable en X Empalmados
+CCXE4-250-250,XB-250-250,Cable a Cable en X Empalmados
+CCXE4-250-3/0,XB-250-3/0,Cable a Cable en X Empalmados
+CCXE4-250-4/0,XB-250-4/0,Cable a Cable en X Empalmados
+CCXE4-3/0-1/0,XB-3/0-1/0,Cable a Cable en X Empalmados
+CCXE4-3/0-2,XB-3/0-2,Cable a Cable en X Empalmados
+CCXE4-3/0-2/0,XB-3/0-2/0,Cable a Cable en X Empalmados
+CCXE4-3/0-3/0,XB-3/0-3/0,Cable a Cable en X Empalmados
+CCXE4-300-1/0,XB-300-1/0,Cable a Cable en X Empalmados
+CCXE4-300-2,XB-300-2,Cable a Cable en X Empalmados
+CCXE4-300-2/0,XB-300-2/0,Cable a Cable en X Empalmados
+CCXE4-300-3/0,XB-300-3/0,Cable a Cable en X Empalmados
+CCXE4-300-4/0,XB-300-4/0,Cable a Cable en X Empalmados
+CCXE4-350-1/0,XB-350-1/0,Cable a Cable en X Empalmados
+CCXE4-350-2,XB-350-2,Cable a Cable en X Empalmados
+CCXE4-350-2/0,XB-350-2/0,Cable a Cable en X Empalmados
+CCXE4-4/0-1/0,XB-4/0-1/0,Cable a Cable en X Empalmados
+CCXE4-4/0-2,XB-4/0-2,Cable a Cable en X Empalmados
+CCXE4-4/0-2/0,XB-4/0-2/0,Cable a Cable en X Empalmados
+CCXE4-4/0-3/0,XB-4/0-3/0,Cable a Cable en X Empalmados
+CCXE4-4/0-4/0,XB-4/0-4/0,Cable a Cable en X Empalmados
+CCXE4-500-1/0,XB-500-1/0,Cable a Cable en X Empalmados
+CCXE4-500-2,XB-500-2,Cable a Cable en X Empalmados
+CCXE8-300-250,XB-300-250,Cable a Cable en X Empalmados
+CCXE8-300-300,XB-300-300,Cable a Cable en X Empalmados
+CCXE8-350-250,XB-350-250,Cable a Cable en X Empalmados
+CCXE8-350-3/0,XB-350-3/0,Cable a Cable en X Empalmados
+CCXE8-350-300,XB-350-300,Cable a Cable en X Empalmados
+CCXE8-350-350,XB-350-350,Cable a Cable en X Empalmados
+CCXE8-350-4/0,XB-350-4/0,Cable a Cable en X Empalmados
+CCXE8-500-2/0,XB-500-2/0,Cable a Cable en X Empalmados
+CCXE8-500-250,XB-500-250,Cable a Cable en X Empalmados
+CCXE8-500-3/0,XB-500-3/0,Cable a Cable en X Empalmados
+CCXE8-500-300,XB-500-300,Cable a Cable en X Empalmados
+CCXE8-500-350,XB-500-350,Cable a Cable en X Empalmados
+CCXE8-500-4/0,XB-500-4/0,Cable a Cable en X Empalmados
+CCXE8-500-500,XB-500-500,Cable a Cable en X Empalmados
+CHCXE-1/2-2,RD-1/2-2,Cable a Varilla Corrugada Horizontal
+CHCXE-1/2-4,RD-1/2-4,Cable a Varilla Corrugada Horizontal
+CHCXE-3/8-2,RD-3/8-2,Cable a Varilla Corrugada Horizontal
+CHCXE-3/8-4,RD-3/8-4,Cable a Varilla Corrugada Horizontal
+CHCXE-5/8-2,RD-5/8-2,Cable a Varilla Corrugada Horizontal
+CHCXE-5/8-4,RD-5/8-4,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/4-1/0,RD-11/4-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/4-2,RD-11/4-2,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/4-2/0,RD-11/4-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/4-3/0,RD-11/4-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/4-4/0,RD-11/4-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/8-1/0,RD-11/8-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/8-2,RD-11/8-2,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/8-2/0,RD-11/8-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/8-3/0,RD-11/8-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-11/8-4/0,RD-11/8-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/4-1/0,RD-13/4-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/4-2/0,RD-13/4-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/4-3/0,RD-13/4-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/4-4/0,RD-13/4-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/8-1/0,RD-13/8-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/8-2,RD-13/8-2,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/8-2/0,RD-13/8-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/8-3/0,RD-13/8-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-13/8-4/0,RD-13/8-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-21/4-1/0,RD-21/4-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-21/4-2/0,RD-21/4-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-21/4-3/0,RD-21/4-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE2-21/4-4/0,RD-21/4-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-1/2-1/0,RD-1/2-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-1/2-2/0,RD-1/2-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-1/2-3/0,RD-1/2-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-1/2-4/0,RD-1/2-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-3/8-1/0,RD-3/8-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-3/8-2/0,RD-3/8-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-3/8-3/0,RD-3/8-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-3/8-4/0,RD-3/8-4/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-5/8-1/0,RD-5/8-1/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-5/8-2/0,RD-5/8-2/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-5/8-3/0,RD-5/8-3/0,Cable a Varilla Corrugada Horizontal
+CHCXE4-5/8-4/0,RD-5/8-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH-1/2-1/0,RR-1/2-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH-1/2-2/0,RR-1/2-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH-1/2-3/0,RR-1/2-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH-1/2-4/0,RR-1/2-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH-3/8-1/0,RR-3/8-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH-3/8-2,RR-3/8-2,Cable a Varilla Corrugada Horizontal
+CHVCH-3/8-2/0,RR-3/8-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH-3/8-3/0,RR-3/8-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH-3/8-4,RR-3/8-4,Cable a Varilla Corrugada Horizontal
+CHVCH-3/8-4/0,RR-3/8-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH-5/8-1/0,RR-5/8-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH-5/8-2/0,RR-5/8-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH-5/8-3/0,RR-5/8-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH-5/8-4/0,RR-5/8-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH1-1/2-2,RR-1/2-2,Cable a Varilla Corrugada Horizontal
+CHVCH1-1/2-4,RR-1/2-4,Cable a Varilla Corrugada Horizontal
+CHVCH1-11/4-2,RR-11/4-2,Cable a Varilla Corrugada Horizontal
+CHVCH1-11/8-2,RR-11/8-2,Cable a Varilla Corrugada Horizontal
+CHVCH1-13/8-2,RR-13/8-2,Cable a Varilla Corrugada Horizontal
+CHVCH1-5/8-2,RR-5/8-2,Cable a Varilla Corrugada Horizontal
+CHVCH1-5/8-4,RR-5/8-4,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/4-1/0,RR-11/4-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/4-2/0,RR-11/4-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/4-3/0,RR-11/4-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/4-4/0,RR-11/4-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/8-1/0,RR-11/8-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/8-2/0,RR-11/8-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/8-3/0,RR-11/8-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-11/8-4/0,RR-11/8-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/4-1/0,RR-13/4-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/4-2/0,RR-13/4-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/4-3/0,RR-13/4-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/4-4/0,RR-13/4-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/8-1/0,RR-13/8-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/8-2/0,RR-13/8-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/8-3/0,RR-13/8-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-13/8-4/0,RR-13/8-4/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-21/4-1/0,RR-21/4-1/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-21/4-2/0,RR-21/4-2/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-21/4-3/0,RR-21/4-3/0,Cable a Varilla Corrugada Horizontal
+CHVCH2-21/4-4/0,RR-21/4-4/0,Cable a Varilla Corrugada Horizontal
+CHVCV-1/2-1/0,RJ-1/2-1/0,Cable a Varilla Corrugada Vertical
+CHVCV-1/2-2,RJ-1/2-2,Cable a Varilla Corrugada Vertical
+CHVCV-1/2-2/0,RJ-1/2-2/0,Cable a Varilla Corrugada Vertical
+CHVCV-1/2-3/0,RJ-1/2-3/0,Cable a Varilla Corrugada Vertical
+CHVCV-1/2-4,RJ-1/2-4,Cable a Varilla Corrugada Vertical
+CHVCV-1/2-4/0,RJ-1/2-4/0,Cable a Varilla Corrugada Vertical
+CHVCV-3/8-1/0,RJ-3/8-1/0,Cable a Varilla Corrugada Vertical
+CHVCV-3/8-2,RJ-3/8-2,Cable a Varilla Corrugada Vertical
+CHVCV-3/8-2/0,RJ-3/8-2/0,Cable a Varilla Corrugada Vertical
+CHVCV-3/8-3/0,RJ-3/8-3/0,Cable a Varilla Corrugada Vertical
+CHVCV-3/8-4,RJ-3/8-4,Cable a Varilla Corrugada Vertical
+CHVCV-3/8-4/0,RJ-3/8-4/0,Cable a Varilla Corrugada Vertical
+CHVCV-5/8-1/0,RJ-5/8-1/0,Cable a Varilla Corrugada Vertical
+CHVCV-5/8-2,RJ-5/8-2,Cable a Varilla Corrugada Vertical
+CHVCV-5/8-2/0,RJ-5/8-2/0,Cable a Varilla Corrugada Vertical
+CHVCV-5/8-3/0,RJ-5/8-3/0,Cable a Varilla Corrugada Vertical
+CHVCV-5/8-4,RJ-5/8-4,Cable a Varilla Corrugada Vertical
+CHVCV-5/8-4/0,RJ-5/8-4/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/4-1/0,RJ-11/4-1/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/4-2,RJ-11/4-2,Cable a Varilla Corrugada Vertical
+CHVCV5-11/4-2/0,RJ-11/4-2/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/4-3/0,RJ-11/4-3/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/4-4/0,RJ-11/4-4/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/8-1/0,RJ-11/8-1/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/8-2,RJ-11/8-2,Cable a Varilla Corrugada Vertical
+CHVCV5-11/8-2/0,RJ-11/8-2/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/8-3/0,RJ-11/8-3/0,Cable a Varilla Corrugada Vertical
+CHVCV5-11/8-4/0,RJ-11/8-4/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/4-1/0,RJ-13/4-1/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/4-2/0,RJ-13/4-2/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/4-3/0,RJ-13/4-3/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/4-4/0,RJ-13/4-4/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/8-1/0,RJ-13/8-1/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/8-2,RJ-13/8-2,Cable a Varilla Corrugada Vertical
+CHVCV5-13/8-2/0,RJ-13/8-2/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/8-3/0,RJ-13/8-3/0,Cable a Varilla Corrugada Vertical
+CHVCV5-13/8-4/0,RJ-13/8-4/0,Cable a Varilla Corrugada Vertical
+CHVCV5-21/4-1/0,RJ-21/4-1/0,Cable a Varilla Corrugada Vertical
+CHVCV5-21/4-2/0,RJ-21/4-2/0,Cable a Varilla Corrugada Vertical
+CHVCV5-21/4-3/0,RJ-21/4-3/0,Cable a Varilla Corrugada Vertical
+CHVCV5-21/4-4/0,RJ-21/4-4/0,Cable a Varilla Corrugada Vertical
+CZL-1/0-1/8-1,GL-1/0-1/8-1,Cable a Zapata tipo L
+CZL-2-1/8-1,GL-2-1/8-1,Cable a Zapata tipo L
+CZL-2/0-1/8-1,GL-2/0-1/8-1,Cable a Zapata tipo L
+CZL-250-3/16-1,GL-250-3/16-1,Cable a Zapata tipo L
+CZL-3/0-1/8-1,GL-3/0-1/8-1,Cable a Zapata tipo L
+CZL-300-1/4-1,GL-300-1/4-1,Cable a Zapata tipo L
+CZL-350-1/4-1,GL-350-1/4-1,Cable a Zapata tipo L
+CZL-4-1/8-1,GL-4-1/8-1,Cable a Zapata tipo L
+CZL-4/0-3/16-1,GL-4/0-3/16-1,Cable a Zapata tipo L
+CZL-500-1/4-11/2,GL-500-1/4-11/2,Cable a Zapata tipo L
+CZZ-1/0-1/4-1,LA-1/0-1/4-1,Cable a Zapata tipo Z
+CZZ-1/0-1/8-1,LA-1/0-1/8-1,Cable a Zapata tipo Z
+CZZ-1/0-3/16-1,LA-1/0-3/16-1,Cable a Zapata tipo Z
+CZZ-2/0-1/4-1,LA-2/0-1/4-1,Cable a Zapata tipo Z
+CZZ-2/0-1/8-1,LA-2/0-1/8-1,Cable a Zapata tipo Z
+CZZ-2/0-3/16-1,LA-2/0-3/16-1,Cable a Zapata tipo Z
+CZZ-250-1/4-1,LA-250-1/4-1,Cable a Zapata tipo Z
+CZZ-250-1/4-11/2,LA-250-1/4-11/2,Cable a Zapata tipo Z
+CZZ-250-1/4-2,LA-250-1/4-2,Cable a Zapata tipo Z
+CZZ-250-1/4-3,LA-250-1/4-3,Cable a Zapata tipo Z
+CZZ-250-3/16-1,LA-250-3/16-1,Cable a Zapata tipo Z
+CZZ-3/0-1/4-1,LA-3/0-1/4-1,Cable a Zapata tipo Z
+CZZ-3/0-1/8-1,LA-3/0-1/8-1,Cable a Zapata tipo Z
+CZZ-3/0-3/16-1,LA-3/0-3/16-1,Cable a Zapata tipo Z
+CZZ-300-1/4-1,LA-300-1/4-1,Cable a Zapata tipo Z
+CZZ-300-1/4-11/2,LA-300-1/4-11/2,Cable a Zapata tipo Z
+CZZ-300-1/4-2,LA-300-1/4-2,Cable a Zapata tipo Z
+CZZ-300-1/4-3,LA-300-1/4-3,Cable a Zapata tipo Z
+CZZ-350-1/4-1,LA-350-1/4-1,Cable a Zapata tipo Z
+CZZ-350-1/4-11/2,LA-350-1/4-11/2,Cable a Zapata tipo Z
+CZZ-350-1/4-2,LA-350-1/4-2,Cable a Zapata tipo Z
+CZZ-350-1/4-3,LA-350-1/4-3,Cable a Zapata tipo Z
+CZZ-4/0-1/4-1,LA-4/0-1/4-1,Cable a Zapata tipo Z
+CZZ-4/0-1/4-11/2,LA-4/0-1/4-11/2,Cable a Zapata tipo Z
+CZZ-4/0-1/4-2,LA-4/0-1/4-2,Cable a Zapata tipo Z
+CZZ-4/0-1/4-3,LA-4/0-1/4-3,Cable a Zapata tipo Z
+CZZ-4/0-3/16-1,LA-4/0-3/16-1,Cable a Zapata tipo Z
+CZZ-500-1/4-11/2,LA-500-1/4-11/2,Cable a Zapata tipo Z
+CZZ-500-1/4-2,LA-500-1/4-2,Cable a Zapata tipo Z
+CZZ-500-1/4-3,LA-500-1/4-3,Cable a Zapata tipo Z
+CZZ-500-3/8-11/2,LA-500-3/8-11/2,Cable a Zapata tipo Z
+CZZ9-1000-1/2-2,LA-1000-1/2-2,Cable a Zapata tipo Z
+CZZ9-1000-1/2-3,LA-1000-1/2-3,Cable a Zapata tipo Z
+CZZ9-1000-1/4-3,LA-1000-1/4-3,Cable a Zapata tipo Z
+CZZ9-1000-3/8-2,LA-1000-3/8-2,Cable a Zapata tipo Z
+CZZ9-1000-3/8-3,LA-1000-3/8-3,Cable a Zapata tipo Z
+CZZ9-750-1/4-2,LA-750-1/4-2,Cable a Zapata tipo Z
+CZZ9-750-1/4-3,LA-750-1/4-3,Cable a Zapata tipo Z
+CZZ9-750-3/8-11/2,LA-750-3/8-11/2,Cable a Zapata tipo Z
+CZZ9-750-3/8-2,LA-750-3/8-2,Cable a Zapata tipo Z
+CZZ9-750-3/8-3,LA-750-3/8-3,Cable a Zapata tipo Z
+CPHPH-1/0,HT-1/0,Cable de Paso Horizontal a Placa Horizontal
+CPHPH-2/0,HT-2/0,Cable de Paso Horizontal a Placa Horizontal
+CPHPH-250,HT-250,Cable de Paso Horizontal a Placa Horizontal
+CPHPH-3/0,HT-3/0,Cable de Paso Horizontal a Placa Horizontal
+CPHPH-300,HT-300,Cable de Paso Horizontal a Placa Horizontal
+CPHPH-350,HT-350,Cable de Paso Horizontal a Placa Horizontal
+CPHPH-4/0,HT-4/0,Cable de Paso Horizontal a Placa Horizontal
+CPHPH1-2,HT-2,Cable de Paso Horizontal a Placa Horizontal
+CPHPH1-4,HT-4,Cable de Paso Horizontal a Placa Horizontal
+CPHPH1-6,HT-6,Cable de Paso Horizontal a Placa Horizontal
+CPHPH9-500,HT-500,Cable de Paso Horizontal a Placa Horizontal
+CPHPV-1/0,VT-1/0,Cable de Paso Horizontal a Placa Vertical
+CPHPV-2,VT-2,Cable de Paso Horizontal a Placa Vertical
+CPHPV-2/0,VT-2/0,Cable de Paso Horizontal a Placa Vertical
+CPHPV-250,VT-250,Cable de Paso Horizontal a Placa Vertical
+CPHPV-3/0,VT-3/0,Cable de Paso Horizontal a Placa Vertical
+CPHPV-4,VT-4,Cable de Paso Horizontal a Placa Vertical
+CPHPV-4/0,VT-4/0,Cable de Paso Horizontal a Placa Vertical
+CPHPV-6,VT-6,Cable de Paso Horizontal a Placa Vertical
+CPVPV-2,VV-2,Cable de Paso Vertical a Placa Vertical
+CPVPV-4,VV-4,Cable de Paso Vertical a Placa Vertical
+CPVPV-6,VV-6,Cable de Paso Vertical a Placa Vertical
+CPVPV3-1/0,VV-1/0,Cable de Paso Vertical a Placa Vertical
+CPVPV3-2/0,VV-2/0,Cable de Paso Vertical a Placa Vertical
+CPVPV3-250,VV-250,Cable de Paso Vertical a Placa Vertical
+CPVPV3-3/0,VV-3/0,Cable de Paso Vertical a Placa Vertical
+CPVPV3-4/0,VV-4/0,Cable de Paso Vertical a Placa Vertical
+CPV-1/2-1/0,GT-1/2-1/0,Cable de Paso a Varilla
+CPV-1/2-2,GT-1/2-2,Cable de Paso a Varilla
+CPV-1/2-2/0,GT-1/2-2/0,Cable de Paso a Varilla
+CPV-1/2-250,GT-1/2-250,Cable de Paso a Varilla
+CPV-1/2-3/0,GT-1/2-3/0,Cable de Paso a Varilla
+CPV-1/2-300,GT-1/2-300,Cable de Paso a Varilla
+CPV-1/2-4,GT-1/2-4,Cable de Paso a Varilla
+CPV-1/2-4/0,GT-1/2-4/0,Cable de Paso a Varilla
+CPV-3/4-1/0,GT-3/4-1/0,Cable de Paso a Varilla
+CPV-3/4-2,GT-3/4-2,Cable de Paso a Varilla
+CPV-3/4-2/0,GT-3/4-2/0,Cable de Paso a Varilla
+CPV-3/4-250,GT-3/4-250,Cable de Paso a Varilla
+CPV-3/4-3/0,GT-3/4-3/0,Cable de Paso a Varilla
+CPV-3/4-300,GT-3/4-300,Cable de Paso a Varilla
+CPV-3/4-350,GT-3/4-350,Cable de Paso a Varilla
+CPV-3/4-4,GT-3/4-4,Cable de Paso a Varilla
+CPV-3/4-4/0,GT-3/4-4/0,Cable de Paso a Varilla
+CPV-3/4-500,GT-3/4-500,Cable de Paso a Varilla
+CPV-3/4-750,GT-3/4-750,Cable de Paso a Varilla
+CPV-5/8-1/0,GT-5/8-1/0,Cable de Paso a Varilla
+CPV-5/8-2,GT-5/8-2,Cable de Paso a Varilla
+CPV-5/8-2/0,GT-5/8-2/0,Cable de Paso a Varilla
+CPV-5/8-250,GT-5/8-250,Cable de Paso a Varilla
+CPV-5/8-3/0,GT-5/8-3/0,Cable de Paso a Varilla
+CPV-5/8-300,GT-5/8-300,Cable de Paso a Varilla
+CPV-5/8-350,GT-5/8-350,Cable de Paso a Varilla
+CPV-5/8-4,GT-5/8-4,Cable de Paso a Varilla
+CPV-5/8-4/0,GT-5/8-4/0,Cable de Paso a Varilla
+CPV-5/8-500,GT-5/8-500,Cable de Paso a Varilla
+CPV-5/8R-1/0,GT-5/8R-1/0,Cable de Paso a Varilla
+CPV-5/8R-2,GT-5/8R-2,Cable de Paso a Varilla
+CPV-5/8R-2/0,GT-5/8R-2/0,Cable de Paso a Varilla
+CPV-5/8R-250,GT-5/8R-250,Cable de Paso a Varilla
+CPV-5/8R-3/0,GT-5/8R-3/0,Cable de Paso a Varilla
+CPV-5/8R-300,GT-5/8R-300,Cable de Paso a Varilla
+CPV-5/8R-350,GT-5/8R-350,Cable de Paso a Varilla
+CPV-5/8R-4,GT-5/8R-4,Cable de Paso a Varilla
+CPV-5/8R-4/0,GT-5/8R-4/0,Cable de Paso a Varilla
+CPV-5/8R-500,GT-5/8R-500,Cable de Paso a Varilla
+CPVP10-3/4-350,GY-3/4-350,Cable de Paso a Varilla de Paso
+CPVP10-3/4-500,GY-3/4-500,Cable de Paso a Varilla de Paso
+CPVP10-3/4-750,GY-3/4-750,Cable de Paso a Varilla de Paso
+CPVP10-5/8-500,GY-5/8-500,Cable de Paso a Varilla de Paso
+CPVP10-5/8R-500,GY-5/8R-500,Cable de Paso a Varilla de Paso
+CPVP5-1/2-1/0,GY-1/2-1/0,Cable de Paso a Varilla de Paso
+CPVP5-1/2-2,GY-1/2-2,Cable de Paso a Varilla de Paso
+CPVP5-1/2-2/0,GY-1/2-2/0,Cable de Paso a Varilla de Paso
+CPVP5-1/2-250,GY-1/2-250,Cable de Paso a Varilla de Paso
+CPVP5-1/2-3/0,GY-1/2-3/0,Cable de Paso a Varilla de Paso
+CPVP5-1/2-300,GY-1/2-300,Cable de Paso a Varilla de Paso
+CPVP5-1/2-4,GY-1/2-4,Cable de Paso a Varilla de Paso
+CPVP5-1/2-4/0,GY-1/2-4/0,Cable de Paso a Varilla de Paso
+CPVP5-3/4-1/0,GY-3/4-1/0,Cable de Paso a Varilla de Paso
+CPVP5-3/4-2,GY-3/4-2,Cable de Paso a Varilla de Paso
+CPVP5-3/4-2/0,GY-3/4-2/0,Cable de Paso a Varilla de Paso
+CPVP5-3/4-250,GY-3/4-250,Cable de Paso a Varilla de Paso
+CPVP5-3/4-3/0,GY-3/4-3/0,Cable de Paso a Varilla de Paso
+CPVP5-3/4-300,GY-3/4-300,Cable de Paso a Varilla de Paso
+CPVP5-3/4-4,GY-3/4-4,Cable de Paso a Varilla de Paso
+CPVP5-3/4-4/0,GY-3/4-4/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8-1/0,GY-5/8-1/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8-2,GY-5/8-2,Cable de Paso a Varilla de Paso
+CPVP5-5/8-2/0,GY-5/8-2/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8-250,GY-5/8-250,Cable de Paso a Varilla de Paso
+CPVP5-5/8-3/0,GY-5/8-3/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8-300,GY-5/8-300,Cable de Paso a Varilla de Paso
+CPVP5-5/8-350,GY-5/8-350,Cable de Paso a Varilla de Paso
+CPVP5-5/8-4,GY-5/8-4,Cable de Paso a Varilla de Paso
+CPVP5-5/8-4/0,GY-5/8-4/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-1/0,GY-5/8R-1/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-2,GY-5/8R-2,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-2/0,GY-5/8R-2/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-250,GY-5/8R-250,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-3/0,GY-5/8R-3/0,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-300,GY-5/8R-300,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-350,GY-5/8R-350,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-4,GY-5/8R-4,Cable de Paso a Varilla de Paso
+CPVP5-5/8R-4/0,GY-5/8R-4/0,Cable de Paso a Varilla de Paso
+CTV-1/2-1/0,GR-1/2-1/0,Cable de Tope a Varilla
+CTV-1/2-2,GR-1/2-2,Cable de Tope a Varilla
+CTV-1/2-2/0,GR-1/2-2/0,Cable de Tope a Varilla
+CTV-1/2-250,GR-1/2-250,Cable de Tope a Varilla
+CTV-1/2-3/0,GR-1/2-3/0,Cable de Tope a Varilla
+CTV-1/2-300,GR-1/2-300,Cable de Tope a Varilla
+CTV-1/2-4,GR-1/2-4,Cable de Tope a Varilla
+CTV-1/2-4/0,GR-1/2-4/0,Cable de Tope a Varilla
+CTV-3/4-1/0,GR-3/4-1/0,Cable de Tope a Varilla
+CTV-3/4-2,GR-3/4-2,Cable de Tope a Varilla
+CTV-3/4-2/0,GR-3/4-2/0,Cable de Tope a Varilla
+CTV-3/4-250,GR-3/4-250,Cable de Tope a Varilla
+CTV-3/4-3/0,GR-3/4-3/0,Cable de Tope a Varilla
+CTV-3/4-300,GR-3/4-300,Cable de Tope a Varilla
+CTV-3/4-350,GR-3/4-350,Cable de Tope a Varilla
+CTV-3/4-4,GR-3/4-4,Cable de Tope a Varilla
+CTV-3/4-4/0,GR-3/4-4/0,Cable de Tope a Varilla
+CTV-3/4-500,GR-3/4-500,Cable de Tope a Varilla
+CTV-3/4-750,GR-3/4-750,Cable de Tope a Varilla
+CTV-5/8-1/0,GR-5/8-1/0,Cable de Tope a Varilla
+CTV-5/8-2,GR-5/8-2,Cable de Tope a Varilla
+CTV-5/8-2/0,GR-5/8-2/0,Cable de Tope a Varilla
+CTV-5/8-250,GR-5/8-250,Cable de Tope a Varilla
+CTV-5/8-3/0,GR-5/8-3/0,Cable de Tope a Varilla
+CTV-5/8-300,GR-5/8-300,Cable de Tope a Varilla
+CTV-5/8-350,GR-5/8-350,Cable de Tope a Varilla
+CTV-5/8-4,GR-5/8-4,Cable de Tope a Varilla
+CTV-5/8-4/0,GR-5/8-4/0,Cable de Tope a Varilla
+CTV-5/8-500,GR-5/8-500,Cable de Tope a Varilla
+CTV-5/8R-1/0,GR-5/8R-1/0,Cable de Tope a Varilla
+CTV-5/8R-2,GR-5/8R-2,Cable de Tope a Varilla
+CTV-5/8R-2/0,GR-5/8R-2/0,Cable de Tope a Varilla
+CTV-5/8R-250,GR-5/8R-250,Cable de Tope a Varilla
+CTV-5/8R-3/0,GR-5/8R-3/0,Cable de Tope a Varilla
+CTV-5/8R-300,GR-5/8R-300,Cable de Tope a Varilla
+CTV-5/8R-350,GR-5/8R-350,Cable de Tope a Varilla
+CTV-5/8R-4,GR-5/8R-4,Cable de Tope a Varilla
+CTV-5/8R-4/0,GR-5/8R-4/0,Cable de Tope a Varilla
+CTV-5/8R-500,GR-5/8R-500,Cable de Tope a Varilla
+CVCXE5-1/2-1/0,RC-1/2-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-1/2-2,RC-1/2-2,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-1/2-2/0,RC-1/2-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-1/2-3/0,RC-1/2-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-1/2-4,RC-1/2-4,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-1/2-4/0,RC-1/2-4/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/4-1/0,RC-11/4-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/4-2,RC-11/4-2,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/4-2/0,RC-11/4-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/4-3/0,RC-11/4-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/4-4/0,RC-11/4-4/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/8-1/0,RC-11/8-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/8-2,RC-11/8-2,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/8-2/0,RC-11/8-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/8-3/0,RC-11/8-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-11/8-4/0,RC-11/8-4/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/4-1/0,RC-13/4-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/4-2/0,RC-13/4-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/4-3/0,RC-13/4-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/4-4/0,RC-13/4-4/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/8-1/0,RC-13/8-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/8-2,RC-13/8-2,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/8-2/0,RC-13/8-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-13/8-3/0,RC-13/8-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-21/4-1/0,RC-21/4-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-21/4-2/0,RC-21/4-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-21/4-3/0,RC-21/4-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-21/4-4/0,RC-21/4-4/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-3/8-1/0,RC-3/8-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-3/8-2,RC-3/8-2,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-3/8-2/0,RC-3/8-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-3/8-3/0,RC-3/8-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-3/8-4,RC-3/8-4,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-3/8-4/0,RC-3/8-4/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-5/8-1/0,RC-5/8-1/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-5/8-2,RC-5/8-2,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-5/8-2/0,RC-5/8-2/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-5/8-3/0,RC-5/8-3/0,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-5/8-4,RC-5/8-4,Cable de paso a Varilla Corrugada Vertical
+CVCXE5-5/8-4/0,RC-5/8-4/0,Cable de paso a Varilla Corrugada Vertical
+CAPV-1/0,VF-1/0,Cable hacia abajo a Superficie Vertical
+CAPV-2,VF-2,Cable hacia abajo a Superficie Vertical
+CAPV-2/0,VF-2/0,Cable hacia abajo a Superficie Vertical
+CAPV-250,VF-250,Cable hacia abajo a Superficie Vertical
+CAPV-3/0,VF-3/0,Cable hacia abajo a Superficie Vertical
+CAPV-300,VF-300,Cable hacia abajo a Superficie Vertical
+CAPV-4,VF-4,Cable hacia abajo a Superficie Vertical
+CAPV-4/0,VF-4/0,Cable hacia abajo a Superficie Vertical
+CVAPV-1/0,VB-1/0,Cable hacia arriba a Superficie Vertical
+CVAPV-2,VB-2,Cable hacia arriba a Superficie Vertical
+CVAPV-2/0,VB-2/0,Cable hacia arriba a Superficie Vertical
+CVAPV-4,VB-4,Cable hacia arriba a Superficie Vertical
+CVAPV3-250,VB-250,Cable hacia arriba a Superficie Vertical
+CVAPV3-3/0,VB-3/0,Cable hacia arriba a Superficie Vertical
+CVAPV3-300,VB-300,Cable hacia arriba a Superficie Vertical
+CVAPV3-4/0,VB-4/0,Cable hacia arriba a Superficie Vertical
+CVAPV6-300,VB-300,Cable hacia arriba a Superficie Vertical
+M-CLM,T394,Cepillo Limpiador de Molde
+M-CA,T313,Cepillo de Alambre
+M-CAD,T314,Cepillo de Alambre Doble
+E-CEF,T320,Chispero para Encendido Fulminante
+M-DR3,B117C,"Disco Reten para Cargas 150, 200 y 250"
+M-DR1,B117A,Disco Reten para Cargas 25 y 32
+M-DR2,B117B,"Disco Reten para Cargas 45, 65, 90 y 115"
+M-E150,B136B,Espatula para remover escoria (150 al 250)
+M-E65,B136A,Espatula para remover escoria (65 al 115)
+M-LLC,T329,Lima para Limpiar Molde
+M-MSM,T317,Mexseal - Masilla para Sellado de Moldes
+M-PE,L160,Pinza Facil Cambio - Estandar
+M-PG,L159,Pinza Facil Cambio - Grande
+M-RAE,T321,Raspador de Acero Estructural
+M-SC,B265,Sujetador para Cable
+VV6-1/2,GB-1/2,Varilla a Varilla
+VV6-3/4,GB-3/4,Varilla a Varilla
+VV6-5/8,GB-5/8,Varilla a Varilla
+VV6-5/8R,GB-5/8R,Varilla a Varilla
